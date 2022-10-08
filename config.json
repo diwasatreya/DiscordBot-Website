@@ -1,0 +1,12 @@
+{
+  "port": "8000",
+  "name": "Recluse Bot",
+  "description": "Recluse is the only Discord bot you'll ever need. It has powerfull latest features which can manage discord server. It contains latest discord features like buttons, forms, menu, etc",
+  "invite": "https://discord.com/oauth2/authorize?scope=bot+applications.commands&client_id=235148962103951360&permissions=37088600",
+  "support": "https://discord.gg/whJeF4mDAX",
+  "pfp": "https://cdn.discordapp.com/attachments/1027603800153919600/1028236433439338496/1665221033192.png",
+  "feature1": "Music, It can play different kind of music from different platforms like spotify, apple, etc.",
+  "feature2": "Moderation, It has many moderation command with latest discord fetures like timeout.",
+  "feature3": "Anime, It contain anime commands where you can get information of chatacters, find images.",
+  "feature4": "Ticket, It is very easy to pull the ticket and close it. It has buttons to make more easy to use."
+}
